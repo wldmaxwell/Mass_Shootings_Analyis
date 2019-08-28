@@ -4,9 +4,6 @@ import pymongo
 import pprint as pprint
 import json
 
-
-
-
 # Initialize PyMongo to work with MongoDBs
 conn = 'mongodb://localhost:27017'
 client = pymongo.MongoClient(conn)
@@ -18,8 +15,10 @@ url = "https://public.opendatasoft.com/api/records/1.0/search/?dataset=mass-shoo
 requests = requests.get(url)
 response = requests.json()
 
+#inserts data(response) into database
 collection.insert_one(response)
 
 #pull data from database and assign variable shootings
+
 shootings = db.shootings.find()
 

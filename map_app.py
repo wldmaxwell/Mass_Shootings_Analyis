@@ -13,7 +13,7 @@ def home():
     # Find one record of data from the mongo database
 
     # Return template and data
-    return render_template("index.html")
+    return render_template("map_test.html")
 
 @app.route("/api/pals")
 def shootings():
