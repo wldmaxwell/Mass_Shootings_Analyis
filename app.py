@@ -15,7 +15,7 @@ def home():
     # Return template and data
     return render_template("index.html")
 
-@app.route("/api/pals")
+@app.route("/api/shootings")
 def shootings():
 
     shootings = mongo.db.shootings.find()
