@@ -14,4 +14,3 @@ var lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/light-v9/til
     id: "mapbox.light",
     accessToken: API_KEY
 });
-
