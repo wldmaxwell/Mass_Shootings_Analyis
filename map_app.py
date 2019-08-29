@@ -27,9 +27,19 @@ def shootings():
 
             date = record['fields']['date']
             state = record['fields']['state']
+            place = record['fields']['place_type']
+            race = record['fields']['shooter_race']
+            age = record['fields'].get('shooter_age_s')
+            # When properties are void of values: record['fields'].get('shooter_age_s')
+            mental_illness = record['fields'].get('history_of_mental_illness_general')
+            day = record['fields']['day_of_week']
             latitude = record['fields']['latitude']
             longitude = record['fields']['longitude']
-            data_dic = {'Latitude': latitude, 'Longitude': longitude, 'date': date, 'state': state}
+            location = [latitude, longitude]
+            fatalities = record ['fields']['total_number_of_fatalities']
+            gender = record ['fields']['shooter_sex']
+            weapon = record ['fields']['type_of_gun_general']
+            data_dic = {'Location': location,'Latitude': latitude, 'Longitude': longitude, 'Date': date, 'State': state, 'Place': place, 'Race': race, 'Mental Illness': mental_illness,'Age': age, 'Day': day, 'Fatalities': fatalities, 'Gender': gender, 'Weapon': weapon}
             data.append(data_dic)
 
     return jsonify(data)
