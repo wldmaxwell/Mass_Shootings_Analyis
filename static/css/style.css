@@ -1,0 +1,80 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+@keyframes width-pulse {
+  0% {
+    stroke-width: 6px
+  }
+  50% {
+    stroke-width: 14px;
+  }
+  100% {
+    stroke-width: 6px;
+  }
+ }
+ @keyframes dashoffset-seven {
+  0% {
+    stroke-dashoffset: 7px;
+  }
+  100% {
+    stroke-dashoffset: 0px;
+  }
+ }
+ @keyframes dasharray-craziness {
+  0% {
+    stroke-dasharray: 7px 2px;
+  }
+  80% {
+    stroke-dasharray: 7px 100px;
+    stroke-width: 10px
+  }
+  100% {
+    stroke-dasharray: 7px 2px;
+  }
+ }
+ .ct-legend {
+  position: relative;
+  z-index: 10;
+ }
+ #chartActivity .ct-label.ct-vertical,
+ #chartActivity .ct-label.ct-horizontal {
+  color: Black;
+ }
+ #chartActivity .ct-grid.ct-vertical,
+ #chartActivity .ct-grid.ct-horizontal {
+  stroke:darkgrey;
+  stroke-dasharray: 2px;
+  shape-rendering: crispEdges;
+ }
+ #chartPreferences {
+   color: White;
+   fill: White;
+ }
+ #chartActivity .ct-series.ct-series-a .ct-line {
+  stroke: rgb(110, 9, 110);
+  stroke-width: 5px;
+  stroke-linecap: round;
+  animation: width-pulse 2s infinite;
+ }
+ #chartActivity .ct-series.ct-series-b .ct-line {
+  stroke: #C7F464;
+  stroke-width: 5px;
+  stroke-dasharray: 5px 2px;
+  animation: dashoffset-seven 200ms infinite linear;
+ }
+ .ct-series.ct-series-c .ct-line {
+  stroke: #FF6B6B;
+  stroke-width: 5px;
+  stroke-linecap: round;
+  stroke-dasharray: 30px 1px;
+  animation: dasharray-craziness 5s infinite linear;
+ }
+ 

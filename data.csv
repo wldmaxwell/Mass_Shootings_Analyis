@@ -1,0 +1,313 @@
+,Age,Date,Day,Fatalities,Gender,Latitude,Location,Longitude,Mental Illness,Place,Race,State,Weapon
+0,52.0,2008-02-07,Thursday,6.0,Male,38.57889169,"[38.57889169, -90.42023754]",-90.42023754,No,Government facility,Black American or African American,Missouri,Handgun
+1,40.0,2012-08-05,Sunday,7.0,Male,42.88027442,"[42.88027442, -87.90087079]",-87.90087079,No,Place of worship,White American or European American,Wisconsin,Handgun
+2,26.0,2016-01-27,Wednesday,6.0,Male,36.7921,"[36.7921, -76.3293]",-76.3293,Yes,Residential home/Neighborhood,White American or European American,Virginia,Handgun
+3,18.0,2006-09-17,Sunday,0.0,Male,40.43948548,"[40.43948548, -79.97631581]",-79.97631581,Unknown,College/University/Adult education,Black American or African American,Pennsylvania,Handgun
+4,23.0,1972-12-31,Sunday,10.0,Male,30.0687242,"[30.0687242, -89.93147412]",-89.93147412,Yes,Government facility,Black American or African American,Louisiana,Multiple guns
+5,40.0,2016-03-07,Monday,5.0,Male,39.114053,"[39.114053, -94.627464]",-94.627464,Unknown,Residential home/Neighborhood,Some other race,Kansas,Rifle
+6,,2015-12-02,Wednesday,16.0,Male/Female,34.13973446,"[34.13973446, -117.2942444]",-117.2942444,Unknown,Medical/Care,Asian American,California,Multiple guns
+7,41.0,1997-12-18,Thursday,5.0,Male,33.78935598,"[33.78935598, -117.820412]",-117.820412,No,Company/Factory/Office,Some other race,California,Rifle
+8,30.0,2015-05-31,Sunday,3.0,Male,41.47657557,"[41.47657557, -81.68051502]",-81.68051502,Unknown,Residential home/Neighborhood,Unknown,Ohio,Handgun
+9,37.0,2016-04-19,Tuesday,4.0,Male,29.785785,"[29.785785, -95.824396]",-95.824396,Unknown,Residential Home/Neighborhood,White American or European American,Texas,Unknown
+10,35.0,2014-12-15,Monday,7.0,Male,40.39359306,"[40.39359306, -75.49640881]",-75.49640881,Yes,Residential home/Neighborhood,White American or European American,Pennsylvania,Handgun
+11,59.0,2012-02-22,Wednesday,5.0,Male,33.94104379,"[33.94104379, -84.20985979]",-84.20985979,Yes,Retail/Wholesale/Services facility,Asian American,Georgia,Handgun
+12,34.0,2013-09-16,Monday,13.0,Male,38.90480894,"[38.90480894, -77.01629717]",-77.01629717,Yes,Military facility,Black American or African American,District of Columbia,Multiple guns
+13,45.0,2008-12-24,Wednesday,10.0,Male,34.09026669,"[34.09026669, -117.8819958]",-117.8819958,No,Residential home/Neighborhood,White American or European American,California,Handgun
+14,16.0,1997-02-19,Wednesday,2.0,Male,60.79053882,"[60.79053882, -161.7927517]",-161.7927517,Yes,Secondary school,White American or European American,Alaska,Shotgun
+15,,2015-01-01,Thursday,0.0,Male,35.10528976,"[35.10528976, -89.97734924]",-89.97734924,No,Public transportation,Black American or African American,Tennessee,Unknown
+16,59.0,2015-07-23,Thursday,3.0,Male,30.21233538,"[30.21233538, -92.0316453]",-92.0316453,Yes,Entertainment venue,White American or European American,Louisiana,Handgun
+17,40.0,2013-08-14,Wednesday,4.0,Male,35.46779189,"[35.46779189, -97.5191631]",-97.5191631,Yes,Residential home/Neighborhood,White American or European American,Oklahoma,Handgun
+18,37.0,1997-12-19,Thursday,2.0,Male,43.06420322,"[43.06420322, -87.96724385]",-87.96724385,No,Government facility,Black American or African American,Wisconsin,Handgun
+19,,2015-02-27,Friday,1.0,Male,33.5282865,"[33.5282865, -86.79550448]",-86.79550448,No,Park/Wildness,Black American or African American,Alabama,Handgun
+20,16.0,1979-01-29,Monday,2.0,Female,32.86357277,"[32.86357277, -117.1281628]",-117.1281628,Yes,Primary school,White American or European American,California,Rifle
+21,44.0,2010-02-12,Friday,0.0,Female,34.72827538,"[34.72827538, -86.6723055]",-86.6723055,No,College/University/Adult education,White American or European American,Alabama,Handgun
+22,29.0,1995-03-21,Tuesday,4.0,Male,40.826184,"[40.826184, -74.20862]",-74.20862,No,Government facility,White American or European American,New Jersey,Handgun
+23,41.0,2002-10-28,Monday,4.0,Male,32.15358905,"[32.15358905, -110.9677647]",-110.9677647,No,College/University/Adult education,Some other race,Arizona,Handgun
+24,18.0,1966-11-12,Saturday,5.0,Male,33.42268696,"[33.42268696, -111.8163202]",-111.8163202,Yes,College/University/Adult education,White American or European American,Arizona,Handgun
+25,,2016-03-19,Saturday,1.0,Unknown,26.127586,"[26.127586, -80.233104]",-80.233104,Unknown,Residential home/Neighborhood,Unknown,Florida,Unknown
+26,45.0,2016-02-20,Saturday,6.0,Male,42.2354,"[42.2354, -85.676]",-85.676,Unknown,"Residential home/Neighborhood,
+Retail/ Wholesale/Services facility",White American or European American,Michigan,Handgun
+27,24.0,2015-05-01,Friday,2.0,Male,43.06420322,"[43.06420322, -87.96724385]",-87.96724385,No,Residential home/Neighborhood,Unknown,Wisconsin,Unknown
+28,15.0,2013-01-19,Saturday,5.0,Male,35.15290522,"[35.15290522, -106.7791378]",-106.7791378,Yes,Residential home/Neighborhood,Some other race,New Mexico,Multiple guns
+29,20.0,2007-10-07,Sunday,7.0,Male,45.56871416,"[45.56871416, -88.89729022]",-88.89729022,No,Residential home/Neighborhood,White American or European American,Wisconsin,Rifle
+30,,2016-02-06,Saturday,2.0,Unknown,27.950575,"[27.950575, -82.457178]",-82.457178,Unknown,Entertainment Venue,Unknown,Florida,Unknown
+31,14.0,1986-12-04,Thursday,1.0,Male,47.03740653,"[47.03740653, -109.4844918]",-109.4844918,Yes,Secondary school,White American or European American,Montana,Handgun
+32,23.0,2007-04-16,Monday,33.0,Male,37.22995471,"[37.22995471, -80.42768677]",-80.42768677,Yes,College/University/Adult education,Asian American,Virginia,Handgun
+33,34.0,2015-01-24,Saturday,4.0,Male,40.68996411,"[40.68996411, -73.8720502]",-73.8720502,No,Residential home/Neighborhood,Black American or African American,New York,Handgun
+34,34.0,2014-04-02,Wednesday,4.0,Male,31.07925506,"[31.07925506, -97.73392317]",-97.73392317,Yes,Military facility,Some other race,Texas,Handgun
+35,17.0,2015-02-07,Saturday,0.0,Male,40.4257455,"[40.4257455, -79.76092565]",-79.76092565,No,Retail/Wholesale/Services facility,Black American or African American,Pennsylvania,Handgun
+36,18.0,1976-02-19,Thursday,1.0,Male,34.17622092,"[34.17622092, -118.5399542]",-118.5399542,Unknown,College/University/Adult education,White American or European American,California,Shotgun
+37,38.0,2016-04-19,Tuesday,1.0,Male,34.16204,"[34.16204, -86.475543]",-86.475543,Yes,Street/Highway,White American or European American,Alabama,Multiple guns
+38,34.0,2016-03-31,Thursday,2.0,Male,37.540725,"[37.540725, -77.436048]",-77.436048,Unknown,Public transportation,Black American or African American,Virginia,Handgun
+39,18.0,2015-05-25,Monday,1.0,Male,39.85566372,"[39.85566372, -88.93346458]",-88.93346458,Unknown,Entertainment venue,Black American or African American,Illinois,Unknown
+40,28.0,2009-03-10,Tuesday,11.0,Male,31.04367594,"[31.04367594, -85.8763466]",-85.8763466,No,"Residential home/Neighborhood 
+and Street/Highway",White American or European American,Alabama,Multiple guns
+41,17.0,1994-05-26,Thursday,4.0,Male,38.95130818,"[38.95130818, -84.67066339]",-84.67066339,No,Residential home/Neighborhood,White American or European American,Kentucky,Handgun
+42,23.0,2013-11-01,Friday,1.0,Male,34.17622092,"[34.17622092, -118.5399542]",-118.5399542,No,Public transportation,White American or European American,California,Rifle
+43,48.0,1998-10-06,Tuesday,0.0,Male,33.93814348,"[33.93814348, -117.3948409]",-117.3948409,No,Government facility,Black American or African American,California,Handgun
+44,17.0,2012-02-27,Monday,3.0,Male,41.58025541,"[41.58025541, -81.20812625]",-81.20812625,Yes,Secondary school,White American or European American,Ohio,Handgun
+45,37.0,2009-11-29,Sunday,5.0,Male,47.16267579,"[47.16267579, -122.5296574]",-122.5296574,Yes,Restaurant/Cafe?,Black American or African American,Washington,Handgun
+46,34.0,2010-08-03,Tuesday,9.0,Male,41.78013821,"[41.78013821, -72.51918655]",-72.51918655,Unknown,Company/Factory/Office,Black American or African American,Connecticut,Handgun
+47,,2016-03-05,Saturday,0.0,Unknown,37.687176,"[37.687176, -97.330053]",-97.330053,Unknown,Entertainment Venue,Unknown,Kansas,Unknown
+48,22.0,2012-12-11,Tuesday,3.0,Male,45.44853107,"[45.44853107, -122.5440133]",-122.5440133,No,Retail/Wholesale/Services facility,Some other race,Oregon,Rifle
+49,,2015-06-20,Saturday,0.0,Male,34.86379864,"[34.86379864, -79.9996781]",-79.9996781,Unknown,Entertainment venue,Black American or African American/Unknown,North Carolina,Multiple guns
+50,42.0,2016-01-29,Friday,2.0,Male,38.044556,"[38.044556, -77.286488]",-77.286488,Unknown,Residential home/Neighborhood,Unknown,Virginia,Unknown
+51,17.0,1982-03-19,Friday,1.0,Male,36.18931923,"[36.18931923, -115.3264875]",-115.3264875,Yes,Secondary school,White American or European American,Nevada,Handgun
+52,43.0,1997-09-15,Monday,4.0,Male,33.47524551,"[33.47524551, -81.72595949]",-81.72595949,No,Company/Factory/Office,Black American or African American,South Carolina,Handgun
+53,,1988-02-11,Thursday,1.0,Male,27.84887061,"[27.84887061, -82.71058]",-82.71058,No,Secondary school,White American or European American,Florida,Multiple guns
+54,,2016-02-21,Sunday,1.0,Male,38.77144,"[38.77144, -90.370949]",-90.370949,Unknown,Street/Highway,Black American or African American,Missouri,Unknown
+55,33.0,2013-02-03,Sunday,4.0,Male,33.67803464,"[33.67803464, -117.773628]",-117.773628,Yes,Residential home/Neighborhood,Black American or African American,California,Multiple guns
+56,,2016-02-06,Saturday,1.0,Unknown,34.052234,"[34.052234, -118.243685]",-118.243685,Unknown,Street/Highway,Unknown,California,Unknown
+57,39.0,1988-12-14,Wednesday,0.0,Male,30.0687242,"[30.0687242, -89.93147412]",-89.93147412,Unknown,Government facility,Unknown,Louisiana,Shotgun
+58,40.0,1999-11-02,Tuesday,7.0,Male,21.309106,"[21.309106, -157.844998]",-157.844998,Yes,Company/Factory/Office,Asian American,Hawaii,Handgun
+59,27.0,2015-05-03,Sunday,4.0,Male,44.20455909,"[44.20455909, -88.4484585]",-88.4484585,Yes,Park/Wildness,Unknown,Wisconsin,Handgun
+60,40.0,2016-03-07,Monday,4.0,Male,39.114053,"[39.114053, -94.627464]",-94.627464,Unknown,Residential home/Neighborhood,Some other race,Kansas,Rifle
+61,18.0,2016-01-17,Sunday,1.0,Male,37.40264,"[37.40264, -76.458559]",-76.458559,Unknown,Residential home/Neighborhood,Black American or African American,Virginia,Unknown
+62,35.0,2015-02-04,Wednesday,4.0,Male,36.27617912,"[36.27617912, -80.35501402]",-80.35501402,Unknown,Residential home/Neighborhood,White American or European American,North Carolina,Handgun
+63,,2016-03-19,Saturday,1.0,Unknown,26.127586,"[26.127586, -80.233104]",-80.233104,Unknown,Residential home/Neighborhood,Unknown,Florida,Unknown
+64,16.0,2005-03-21,Monday,10.0,Male,47.87067289,"[47.87067289, -95.00529009]",-95.00529009,Yes,Secondary school,Native American or Alaska Native,Minnesota,Multiple guns
+65,22.0,1994-12-30,Friday,2.0,Male,42.32427392,"[42.32427392, -71.14080012]",-71.14080012,Yes,Medical/Care,White American or European American,Massachusetts,Rifle
+66,70.0,2013-01-30,Wednesday,3.0,Male,33.57145875,"[33.57145875, -112.0904854]",-112.0904854,Unknown,Company/Factory/Office,White American or European American,Arizona,Multiple guns
+67,38.0,1993-05-06,Thursday,1.0,Male,33.47316083,"[33.47316083, -117.696399]",-117.696399,Yes,Government facility,White American or European American,California,Handgun
+68,44.0,2014-02-20,Thursday,4.0,Female,41.4911123,"[41.4911123, -120.549091]",-120.549091,No,Government facility,Native American or Alaska Native,California,Handgun
+69,35.0,1998-03-06,Friday,5.0,Male,41.68700845,"[41.68700845, -72.73083927]",-72.73083927,Yes,Company/Factory/Office,White American or European American,Connecticut,Handgun
+70,19.0,2007-12-05,Wednesday,9.0,Male,41.265922,"[41.265922, -96.05381421]",-96.05381421,Yes,Retail/Wholesale/Services facility,White American or European American,Nebraska,Rifle
+71,,2008-10-26,Sunday,0.0,Male,35.08130744,"[35.08130744, -92.43278275]",-92.43278275,No,College/University/Adult education,Black American or African American,Arkansas,Handgun
+72,,2015-08-19,Wednesday,3.0,Male,43.1696837,"[43.1696837, -77.614337]",-77.614337,Unknown,Street/Highway,Black American or African American,New York,Rifle
+73,31.0,1991-11-14,Thursday,5.0,Male,42.50840203,"[42.50840203, -83.15387427]",-83.15387427,Yes,Government facility,White American or European American,Michigan,Rifle
+74,38.0,2016-02-25,Thursday,4.0,Male,38.1368,"[38.1368, -97.4268]",-97.4268,Unknown,Company/Factory/Office,Black American or African American,Kansas,Multiple guns
+75,19.0,2015-02-24,Tuesday,3.0,Male,35.226354,"[35.226354, -80.836788]",-80.836788,No,Residential home/Neighborhood,Some other race,North Carolina,Unknown
+76,,1983-02-18,Friday,13.0,Male,47.621995749999996,"[47.621995749999996, -122.323646]",-122.323646,Unknown,Entertainment venue,Asian American,Washington,Handgun
+77,12.0,2013-10-21,Monday,2.0,Male,39.54058388,"[39.54058388, -119.748291]",-119.748291,Unknown,Primary school,Some other race,Nevada,Handgun
+78,20.0,2013-02-19,Tuesday,4.0,Male,33.54961059,"[33.54961059, -117.6415707]",-117.6415707,Yes,Street/Highway,White American or European American,California,Shotgun
+79,15.0,2001-03-05,Monday,2.0,Male,32.86357277,"[32.86357277, -117.1281628]",-117.1281628,No,Secondary school,White American or European American,California,Handgun
+80,,2016-03-26,Saturday,3.0,Male,36.099039,"[36.099039, -78.301106]",-78.301106,Unknown,Residential home/Neighborhood,Black American or African American,North Carolina,Unknown
+81,,2011-02-06,Sunday,1.0,Male,41.09933958,"[41.09933958, -80.64631705]",-80.64631705,Unknown,College/University/Adult education,Black American or African American,Ohio,Handgun
+82,43.0,2005-02-24,Thursday,3.0,Male,32.3154272,"[32.3154272, -95.30501087]",-95.30501087,Unknown,Government facility,Some other race,Texas,Rifle
+83,21.0,2015-10-21,Wednesday,2.0,Male,39.253268,"[39.253268, -84.599655]",-84.599655,Unknown,Residential home/Neighborhood,White American or European American,Ohio,Handgun
+84,15.0,2007-10-25,Thursday,0.0,Male,43.41929117,"[43.41929117, -83.95032759]",-83.95032759,No,Primary school,Black American or African American,Michigan,Rifle
+85,46.0,2014-08-08,Friday,2.0,Male,35.15290522,"[35.15290522, -106.7791378]",-106.7791378,No,Retail/Wholesale/Services facility,Some other race,New Mexico,Handgun
+86,23.0,2013-06-07,Friday,6.0,Male,34.02319149,"[34.02319149, -118.4815644]",-118.4815644,Yes,Residential home/Neighborhood,White American or European American,California,Multiple guns
+87,15.0,1999-05-20,Thursday,0.0,Male,33.66086267,"[33.66086267, -84.02688527]",-84.02688527,No,Secondary school,White American or European American,Georgia,Multiple guns
+88,,2016-01-25,Monday,1.0,Male,33.782519,"[33.782519, -117.228648]",-117.228648,Unknown,Restaurant/Cafeé,Unknown,California,Unknown
+89,45.0,2016-02-20,Saturday,2.0,Male,34.7404,"[34.7404, -88.1383]",-88.1383,Unknown,Residential home/Neighborhood,White American or European American,Mississippi,Rifle
+90,25.0,2004-12-08,Wednesday,5.0,Male,39.98861445,"[39.98861445, -82.98904135]",-82.98904135,Yes,Entertainment venue,White American or European American,Ohio,Handgun
+91,,1991-08-09,Friday,9.0,Male,33.57145875,"[33.57145875, -112.0904854]",-112.0904854,No,Place of worship,Asian American/Some other race,Arizona,Multiple guns
+92,27.0,2013-04-21,Sunday,5.0,Male,47.30909721,"[47.30909721, -122.3357553]",-122.3357553,Unknown,Residential home/Neighborhood,Black American or African American,Washington,Multiple guns
+93,59.0,2015-06-07,Sunday,5.0,Male,46.39761858,"[46.39761858, -112.7329333]",-112.7329333,Unknown,Residential home/Neighborhood,White American or European American,Montana,Handgun
+94,,2016-02-19,Friday,2.0,Unknown,38.104086,"[38.104086, -122.256637]",-122.256637,Unknown,Street/Highway,Unknown,California,Unknown
+95,29.0,2007-12-24,Monday,6.0,Male/Female,47.64628742,"[47.64628742, -121.9088524]",-121.9088524,No,Residential home/Neighborhood,White American or European American,Washington,Handgun
+96,47.0,1989-09-14,Thursday,9.0,Male,38.249432,"[38.249432, -85.726243]",-85.726243,Yes,Company/Factory/Office,White American or European American,Kentucky,Multiple guns
+97,44.0,2013-08-07,Wednesday,4.0,Male,32.79480596,"[32.79480596, -96.76631094]",-96.76631094,Unknown,Residential home/Neighborhood,Black American or African American,Texas,Handgun
+98,14.0,1985-01-21,Monday,1.0,Male,37.67129418,"[37.67129418, -97.55070476]",-97.55070476,Yes,Primary school,White American or European American,Kansas,Multiple guns
+99,24.0,2016-02-28,Sunday,1.0,Male,33.997197,"[33.997197, -117.48548]",-117.48548,Unknown,Restaurant/cafe,Some other race,California,Unknown
+100,,2012-04-06,Friday,3.0,Male,36.13543238,"[36.13543238, -95.91316117]",-95.91316117,No,Street/Highway,White American or European American,Oklahoma,Unknown
+101,17.0,2012-09-28,Sunday,0.0,Male,25.79653943,"[25.79653943, -80.20840397]",-80.20840397,Unknown,Entertainment venue,Black American or African American,Florida,Handgun
+102,17.0,1992-09-11,Friday,0.0,Male,35.18322484,"[35.18322484, -101.8805688]",-101.8805688,Unknown,Secondary school,Unknown,Texas,Handgun
+103,46.0,2015-02-10,Tuesday,3.0,Male,35.92681467,"[35.92681467, -79.03850407]",-79.03850407,No,Residential home/Neighborhood,White American or European American,North Carolina,Handgun
+104,,2016-01-11,Monday,1.0,Male,39.739072,"[39.739072, -75.539788]",-75.539788,Unknown,Residential home/Neighborhood,Black American or African American,Delaware,Unknown
+105,52.0,1989-08-10,Thursday,4.0,Male,33.13439925,"[33.13439925, -117.0722528]",-117.0722528,No,Government facility,White American or European American,California,Handgun
+106,25.0,2013-12-28,Saturday,3.0,Male,32.34729571,"[32.34729571, -86.26730242]",-86.26730242,No,Entertainment venue,Black American or African American,Alabama,Handgun
+107,36.0,2015-02-26,Friday,8.0,Male,37.204442,"[37.204442, -91.876583]",-91.876583,No,Residential home/Neighborhood,White American or European American,Missouri,Handgun
+108,20.0,2012-12-14,Friday,28.0,Male,41.41190846,"[41.41190846, -73.31196267]",-73.31196267,Yes,Primary school,White American or European American,Connecticut,Multiple guns
+109,32.0,2015-03-13,Friday,2.0,Male,31.58036482,"[31.58036482, -90.44323475]",-90.44323475,Unknown,Residential home/Neighborhood,Black American or African American,Mississippi,Handgun
+110,26.0,2016-01-27,Wednesday,6.0,Male,36.768209,"[36.768209, -76.287493]",-76.287493,Unknown,Residential home/Neighborhood,White American or European American,Virginia,handgun
+111,25.0,2015-05-12,Tuesday,5.0,Male,32.15358905,"[32.15358905, -110.9677647]",-110.9677647,Yes,Residential home/Neighborhood,Unknown,Arizona,Unknown
+112,32.0,2011-09-06,Tuesday,5.0,Male,39.16464203,"[39.16464203, -119.7763025]",-119.7763025,Yes,Restaurant/Cafe?,Some other race,Nevada,Rifle
+113,41.0,2015-03-18,Wednesday,1.0,Male,33.42268696,"[33.42268696, -111.8163202]",-111.8163202,No,Residential home/Neighborhood,White American or European American,Arizona,Unknown
+114,36.0,2015-05-31,Sunday,3.0,Male,33.66086267,"[33.66086267, -84.02688527]",-84.02688527,Unknown,"Retail/Wholesale/Services facility
+/Residential home/Neighborhood",White American or European American,Georgia,Multiple guns
+115,,2016-02-20,Saturday,1.0,Unknown,27.950575,"[27.950575, -82.457178]",-82.457178,Unknown,Entertainment Venue,Unknown,Florida,Unknown
+116,20.0,2016-04-21,Thursday,0.0,Male,39.290385,"[39.290385, -76.612189]",-76.612189,Unknown,Residential Home/Neighborhood,Black American or African American,Maryland,handgun
+117,51.0,2016-02-26,Friday,5.0,Male,47.5033,"[47.5033, -122.931]",-122.931,Unknown,Residential home/Neighborhood,White American or European American,Washington,Handgun
+118,32.0,2016-03-19,Saturday,2.0,Male,32.543745,"[32.543745, -86.211913]",-86.211913,Unknown,Street/Highway,Black American or African American,Alabama,Handgun
+119,41.0,2015-08-26,Wednesday,3.0,Male,37.27823366,"[37.27823366, -79.95816104]",-79.95816104,Unknown,Retail/Wholesale/Services facility,Black American or African American,Virginia,Handgun
+120,32.0,2015-07-22,Wednesday,4.0,Male,34.05057545,"[34.05057545, -84.06872262]",-84.06872262,Unknown,Residential home/Neighborhood,White American or European American,Georgia,Unknown
+121,39.0,1984-06-29,Friday,6.0,Male,32.79480596,"[32.79480596, -96.76631094]",-96.76631094,Yes,Entertainment venue,White American or European American,Texas,Handgun
+122,41.0,2015-02-22,Sunday,3.0,Male,34.61025711,"[34.61025711, -83.52918091]",-83.52918091,No,Residential home/Neighborhood,White American or European American,Georgia,Handgun
+123,51.0,2016-02-25,Friday,5.0,Male,47.451459,"[47.451459, -122.826946]",-122.826946,Unknown,Residential home/Neighborhood,White American or European American,Washington,Handgun
+124,29.0,1993-09-17,Friday,1.0,Male,44.79051074,"[44.79051074, -106.9599165]",-106.9599165,No,Primary school,White American or European American,Wyoming,Multiple guns
+125,59.0,2013-08-05,Monday,3.0,Male,39.75344279,"[39.75344279, -79.08435956]",-79.08435956,No,Government facility,White American or European American,Pennsylvania,Multiple guns
+126,,2016-04-19,Tuesday,1.0,Unknown,41.878114,"[41.878114, -87.629798]",-87.629798,Unknown,Park/Wilderness,Unknown,Illinois,Unknown
+127,14.0,1996-02-02,Friday,3.0,Male,47.12189424,"[47.12189424, -119.2750699]",-119.2750699,Yes,Primary school,White American or European American,Washington,Multiple guns
+128,,2014-06-08,Sunday,5.0,Male/Female,36.18931923,"[36.18931923, -115.3264875]",-115.3264875,No,Retail/Wholesale/Services facility,White American or European American,Nevada,Multiple guns
+129,,2015-11-23,Monday,0.0,Male,44.96358722,"[44.96358722, -93.26783687]",-93.26783687,Unknown,Street/Highway,White American or European American,Minnesota,Unknown
+130,31.0,2015-04-25,Saturday,1.0,Male,43.15693027,"[43.15693027, -77.69300856]",-77.69300856,Unknown,Restaurant/Cafe?,Black American or African American,New York,Handgun
+131,40.0,2015-02-28,Saturday,4.0,Male,35.90434471,"[35.90434471, -77.55639964]",-77.55639964,Yes,"Retail/Wholesale/Services facility
+/Residential home/Neighborhood",Black American or African American,North Carolina,Unknown
+132,36.0,2004-11-21,Sunday,6.0,Male,45.65773714,"[45.65773714, -91.55077175]",-91.55077175,No,Park/Wildness,Asian American,Wisconsin,Rifle
+133,,2015-01-24,Saturday,3.0,Male,41.265922,"[41.265922, -96.05381421]",-96.05381421,No,Street/Highway,Black American or African American,Nebraska,Unknown
+134,15.0,1998-05-21,Thursday,4.0,Male,44.05489698,"[44.05489698, -123.0075562]",-123.0075562,Yes,Secondary school,White American or European American,Oregon,Multiple guns
+135,19.0,1993-12-14,Tuesday,4.0,Male,39.69892933,"[39.69892933, -104.7871863]",-104.7871863,Yes,Restaurant/Cafe?,Black American or African American,Colorado,Handgun
+136,28.0,1993-07-08,Tuesday,1.0,Male,41.2281367,"[41.2281367, -111.9675317]",-111.9675317,No,College/University/Adult education,Asian American,Utah,Handgun
+137,30.0,2016-01-31,Sunday,0.0,Male,29.951066,"[29.951066, -90.071532]",-90.071532,Unknown,Street/Highway,Black American or African American,Louisiana,Unknown
+138,33.0,2016-03-20,Sunday,4.0,Male,38.252665,"[38.252665, -85.758456]",-85.758456,Unknown,Residential home/Neighborhood,White American or European American,Kentucky,Unknown
+139,22.0,2012-06-09,Saturday,3.0,Male,32.60598014,"[32.60598014, -85.48989253]",-85.48989253,Unknown,Residential home/Neighborhood,Black American or African American,Alabama,Handgun
+140,66.0,2001-02-05,Monday,6.0,Male,41.90289602,"[41.90289602, -87.8643021]",-87.8643021,No,Company/Factory/Office,Black American or African American,Illinois,Multiple guns
+141,26.0,2014-06-05,Thursday,1.0,Male,47.621995749999996,"[47.621995749999996, -122.323646]",-122.323646,Yes,College/University/Adult education,Some other race,Washington,Shotgun
+142,50.0,2015-11-23,Monday,4.0,Male,39.98861445,"[39.98861445, -82.98904135]",-82.98904135,Unknown,Residential home/Neighborhood,White American or European American,Ohio,Handgun
+143,,2016-03-13,Sunday,0.0,Unknown,26.640628,"[26.640628, -81.872308]",-81.872308,Unknown,Park/Wilderness,Unknown,Florida,Unknown
+144,,2015-05-10,Sunday,1.0,Male,40.73169648,"[40.73169648, -74.18417699]",-74.18417699,Unknown,Street/Highway,Black American or African American,New Jersey,Unknown
+145,33.0,2015-11-15,Sunday,6.0,Male,31.8076,"[31.8076, -95.8069]",-95.8069,Unknown,Park/Wildness,White American or European American,Texas,Unknown
+146,42.0,2015-03-30,Monday,4.0,Male,36.13543238,"[36.13543238, -95.91316117]",-95.91316117,Unknown,Residential home/Neighborhood,Asian American,Oklahoma,Handgun
+147,36.0,1999-12-30,Thursday,5.0,Male,27.99601861,"[27.99601861, -82.44503769]",-82.44503769,No,Retail/Wholesale/Services facility,Some other race,Florida,Handgun
+148,18.0,2007-12-11,Tuesday,0.0,Male,36.18931923,"[36.18931923, -115.3264875]",-115.3264875,No,Street/Highway,Black American or African American,Nevada,Handgun
+149,42.0,2015-11-04,Wednesday,4.0,Male,44.54994725,"[44.54994725, -69.70782299]",-69.70782299,Unknown,Residential home/Neighborhood,Unknown,Maine,Handgun
+150,36.0,2016-03-21,Monday,4.0,Male,33.635661999999996,"[33.635661999999996, -96.60888]",-96.60888,Unknown,Residential home/Neighborhood,Unknown,Texas,Unknown
+151,24.0,2015-07-12,Sunday,2.0,Male,41.89499946,"[41.89499946, -87.81941392]",-87.81941392,Unknown,Residential home/Neighborhood,Unknown,Illinois,Shotgun
+152,45.0,1993-05-06,Thursday,2.0,Male,42.31269522,"[42.31269522, -83.21293244]",-83.21293244,Unknown,Government facility,Unknown,Michigan,Multiple guns
+153,24.0,2008-07-24,Thursday,0.0,Male,33.57145875,"[33.57145875, -112.0904854]",-112.0904854,No,College/University/Adult education,Black American or African American,Arizona,Handgun
+154,21.0,2015-06-16,Tuesday,0.0,Male,25.94326707,"[25.94326707, -80.24253243]",-80.24253243,Unknown,Residential home/Neighborhood,Black American or African American,Florida,Unknown
+155,50.0,1992-10-15,Thursday,5.0,Male,42.38013875,"[42.38013875, -76.86724659]",-76.86724659,No,Government facility,White American or European American,New York,Handgun
+156,36.0,2012-09-27,Thursday,7.0,Male,44.96358722,"[44.96358722, -93.26783687]",-93.26783687,Yes,Company/Factory/Office,White American or European American,Minnesota,Handgun
+157,39.0,2016-03-06,Sunday,0.0,Male,34.023243,"[34.023243, -84.361556]",-84.361556,Unknown,Entertainment Venue,Black American or African American,Georgia,Unknown
+158,17.0,1974-12-30,Monday,3.0,Male,42.08185369,"[42.08185369, -78.43213922]",-78.43213922,No,Secondary school,White American or European American,New York,Multiple guns
+159,27.0,2008-02-14,Thursday,6.0,Male,41.93172129,"[41.93172129, -88.74814853]",-88.74814853,Yes,College/University/Adult education,White American or European American,Illinois,Multiple guns
+160,19.0,1988-09-26,Monday,2.0,Male,34.1928952,"[34.1928952, -82.15355508]",-82.15355508,Yes,Primary school,White American or European American,South Carolina,Handgun
+161,33.0,2016-03-20,Sunday,4.0,Male,38.252665,"[38.252665, -85.758456]",-85.758456,Yes,Residential home/Neighborhood,White American or European American,Kentucky,Unknown
+162,18.0,2007-02-12,Monday,6.0,Male,40.77787404,"[40.77787404, -111.9312168]",-111.9312168,Unknown,Retail/ Wholesale/Services facility,White American or European American,Utah,Multiple guns
+163,,2016-03-09,Wednesday,5.0,Male,40.441736,"[40.441736, -79.881994]",-79.881994,Unknown,Residential home/Neighborhood,Unknown,Pennsylvania,Multiple Guns
+164,14.0,1998-04-24,Friday,1.0,Male,41.87617136,"[41.87617136, -80.12459632]",-80.12459632,Yes,Restaurant/Cafe?,White American or European American,Pennsylvania,Handgun
+165,28.0,2006-03-25,Saturday,7.0,Male,47.621995749999996,"[47.621995749999996, -122.323646]",-122.323646,No,Residential home/Neighborhood,White American or European American,Washington,Multiple guns
+166,42.0,1990-06-17,Sunday,12.0,Male,30.33216122,"[30.33216122, -81.67576993]",-81.67576993,No,Company/Factory/Office,Black American or African American,Florida,Multiple guns
+167,,2012-01-29,Sunday,5.0,Male,33.5282865,"[33.5282865, -86.79550448]",-86.79550448,No,Residential home/Neighborhood,Black American or African American,Alabama,Handgun
+168,36.0,1996-08-15,Thursday,3.0,Male,32.86357277,"[32.86357277, -117.1281628]",-117.1281628,No,College/University/Adult education,White American or European American,California,Handgun
+169,,2016-01-23,Saturday,2.0,Unknown,34.052234,"[34.052234, -118.243685]",-118.243685,Unknown,Street/Highway,Unknown,California,Rifle
+170,45.0,2016-02-20,Saturday,6.0,Male,42.291707,"[42.291707, -85.587229]",-85.587229,No,Street/Highway,White American or European American,Michigan,Multiple Guns
+171,19.0,2014-04-29,Tuesday,1.0,Male,34.02529674,"[34.02529674, -84.61766831]",-84.61766831,No,Company/Factory/Office,White American or European American,Georgia,Shotgun
+172,30.0,1988-05-20,Friday,2.0,Female,42.10648807,"[42.10648807, -87.74211141]",-87.74211141,Yes,Primary school,White American or European American,Illinois,Multiple guns
+173,,2016-04-09,Saturday,0.0,Unknown,35.149534,"[35.149534, -90.04898]",-90.04898,Unknown,Street/Highway,Unknown,Tennessee,Unknown
+174,,2016-02-28,Sunday,0.0,Male,42.331427,"[42.331427, -83.045754]",-83.045754,Unknown,Entertainment Venue,Black American or African American,Michigan,Handgun
+175,15.0,2014-10-24,Tuesday,5.0,Male,48.04802409,"[48.04802409, -122.1359622]",-122.1359622,No,Secondary school,Native American or Alaska Native,Washington,Handgun
+176,42.0,2000-12-26,Tuesday,7.0,Male,42.30904091,"[42.30904091, -71.10271358]",-71.10271358,No,Company/Factory/Office,Some other race,Massachusetts,Multiple guns
+177,,2016-04-07,Thursday,0.0,Unknown,41.878114,"[41.878114, -87.629798]",-87.629798,Unknown,Street/Highway,Unknown,Illinois,Unknown
+178,14.0,1997-12-01,Monday,3.0,Male,37.08506,"[37.08506, -88.74422]",-88.74422,Yes,Secondary school,White American or European American,Kentucky,Multiple guns
+179,22.0,2016-01-23,Saturday,3.0,Male,30.754181,"[30.754181, -86.572799]",-86.572799,Unknown,Residential home/Neighborhood,White American or European American,Florida,Unknown
+180,22.0,2015-03-28,Saturday,0.0,Male,30.22540212,"[30.22540212, -85.87371301]",-85.87371301,No,Residential home/Neighborhood,Black American or African American,Florida,Handgun
+181,44.0,1986-08-20,Wednesday,15.0,Male,35.66889223,"[35.66889223, -97.41438792]",-97.41438792,Yes,Government facility,White American or European American,Oklahoma,Handgun
+182,62.0,2003-05-09,Friday,1.0,Male,41.47657557,"[41.47657557, -81.68051502]",-81.68051502,No,College/University/Adult education,Asian American,Ohio,Handgun
+183,49.0,2016-03-25,Friday,2.0,Male,35.242302,"[35.242302, -87.334739]",-87.334739,Unknown,Residential home/Neighborhood,Unknown,Tennessee,Shotgun
+184,19.0,2016-04-09,Saturday,0.0,Male,35.085334,"[35.085334, -106.605553]",-106.605553,Unknown,Residential home/Neighborhood,White American or European American,New Mexico,Handgun
+185,37.0,1994-11-07,Monday,1.0,Male,41.60713735,"[41.60713735, -81.46902046]",-81.46902046,Yes,Primary school,White American or European American,Ohio,Shotgun
+186,55.0,1983-08-19,Friday,1.0,Male,33.83272887,"[33.83272887, -81.8051584]",-81.8051584,Yes,Government facility,White American or European American,South Carolina,Shotgun
+187,57.0,2015-10-01,Thursday,3.0,Male,29.03270634,"[29.03270634, -82.65919302]",-82.65919302,Unknown,Residential home/Neighborhood,White American or European American,Florida,Unknown
+188,39.0,2014-12-01,Monday,5.0,Male,39.63400851,"[39.63400851, -79.94839325]",-79.94839325,No,Residential home/Neighborhood,White American or European American,West Virginia,Handgun
+189,19.0,2015-08-29,Saturday,3.0,Male,36.55605824,"[36.55605824, -82.21429551]",-82.21429551,Unknown,Residential home/Neighborhood,White American or European American,Tennessee,Rifle
+190,14.0,1974-01-17,Thursday,1.0,Male,41.83928045,"[41.83928045, -87.68818145]",-87.68818145,Yes,Primary school,Unknown,Illinois,Handgun
+191,,1999-04-20,Tuesday,15.0,Male,39.59358263,"[39.59358263, -105.0152112]",-105.0152112,Yes,Secondary school,White American or European American,Colorado,Multiple guns
+192,23.0,2015-12-06,Sunday,2.0,Male,41.3138,"[41.3138, -96.0814]",-96.0814,Unknown,Residential home/Neighborhood,Black American or African American,Nebraska,Unknown
+193,39.0,1988-02-16,Tuesday,7.0,Male,37.38344257,"[37.38344257, -122.0256185]",-122.0256185,Yes,Company/Factory/Office,White American or European American,California,Multiple guns
+194,51.0,1982-08-20,Friday,9.0,Male,25.79653943,"[25.79653943, -80.20840397]",-80.20840397,Yes,Retail/Wholesale/Services facility,White American or European American,Florida,Shotgun
+195,48.0,2015-08-08,Saturday,8.0,Male,29.79705548,"[29.79705548, -95.36763856]",-95.36763856,Unknown,Residential home/Neighborhood,Black American or African American,Texas,Handgun
+196,21.0,2016-02-09,Tuesday,0.0,Male,43.201126,"[43.201126, -86.238946]",-86.238946,Unknown,Secondary School,Black American or African American,Michigan,Handgun
+197,35.0,1991-10-16,Wednesday,24.0,Male,31.07925506,"[31.07925506, -97.73392317]",-97.73392317,Yes,Restaurant/Cafe?,White American or European American,Texas,Handgun
+198,42.0,2009-03-29,Sunday,6.0,Male,37.36463172,"[37.36463172, -121.9679315]",-121.9679315,No,Residential home/Neighborhood,Asian American,California,Handgun
+199,45.0,2015-03-15,Sunday,3.0,Male,31.0549687,"[31.0549687, -85.30100084]",-85.30100084,No,Residential home/Neighborhood,White American or European American,Alabama,Rifle
+200,44.0,2006-01-30,Monday,8.0,Female,34.43606107,"[34.43606107, -119.8593619]",-119.8593619,Yes,Government facility,White American or European American,California,Handgun
+201,35.0,2015-04-21,Tuesday,2.0,Male,31.07925506,"[31.07925506, -97.73392317]",-97.73392317,Unknown,Residential home/Neighborhood,Black American or African American,Texas,Unknown
+202,36.0,2016-03-21,Monday,4.0,Male,33.635661999999996,"[33.635661999999996, -96.60888]",-96.60888,Unknown,Residential home/Neighborhood,White American or European American,Texas,Unknown
+203,58.0,2016-04-01,Friday,3.0,Male,35.085334,"[35.085334, -106.605553]",-106.605553,Unknown,Restaurant/Cafe,Asian American,New Mexico,Unknown
+204,,2014-03-23,Sunday,0.0,Male,37.75457839,"[37.75457839, -122.4424343]",-122.4424343,No,Street/Highway,Black American or African American,California,Handgun
+205,45.0,2009-03-29,Sunday,8.0,Male,35.33985609,"[35.33985609, -79.41381725]",-79.41381725,Yes,Medical/Care,White American or European American,North Carolina,Multiple guns
+206,42.0,2013-07-26,Friday,7.0,Male,25.85294547,"[25.85294547, -80.28316975]",-80.28316975,No,Residential home/Neighborhood,Some other race,Florida,Handgun
+207,25.0,1966-08-01,Monday,17.0,Male,30.1988873,"[30.1988873, -97.84415949]",-97.84415949,Yes,College/University/Adult education,White American or European American,Texas,Multiple guns
+208,22.0,2011-01-08,Saturday,6.0,Male,32.15358905,"[32.15358905, -110.9677647]",-110.9677647,Yes,Retail/Wholesale/Services facility,White American or European American,Arizona,Handgun
+209,19.0,1979-10-06,Saturday,2.0,Male,34.05098834,"[34.05098834, -80.82077527]",-80.82077527,Unknown,College/University/Adult education,Black American or African American,South Carolina,Handgun
+210,20.0,2014-06-29,Sunday,1.0,Male,30.0687242,"[30.0687242, -89.93147412]",-89.93147412,No,Street/Highway,Two or more races,Louisiana,Handgun
+211,37.0,1976-07-12,Monday,7.0,Male,33.88404244,"[33.88404244, -117.92785]",-117.92785,Yes,College/University/Adult education,White American or European American,California,Rifle
+212,45.0,2015-09-10,Thursday,5.0,Male,47.69618799,"[47.69618799, -95.42844094]",-95.42844094,Yes,Residential home/Neighborhood,White American or European American,Minnesota,Shotgun
+213,34.0,2011-04-06,Wednesday,1.0,Male,32.66240106,"[32.66240106, -85.37706931]",-85.37706931,Yes,College/University/Adult education,White American or European American,Alabama,Handgun
+214,,2016-04-29,Friday,0.0,Unknown,38.744217,"[38.744217, -90.305391]",-90.305391,Unknown,Residential home/Neighborhood,Unknown,Missouri,Unknown
+215,64.0,2013-03-13,Wednesday,5.0,Male,43.0104011,"[43.0104011, -75.0075119]",-75.0075119,No,Retail/Wholesale/Services facility,White American or European American,New York,Shotgun
+216,57.0,2015-11-27,Friday,3.0,Male,38.86730659,"[38.86730659, -104.7572279]",-104.7572279,Unknown,Medical/Care,White American or European American,Colorado,Rifle
+217,,2016-02-07,Sunday,1.0,Unknown,43.16103,"[43.16103, -77.610922]",-77.610922,Unknown,Entertainment Venue,Unknown,New York,Unknown
+218,,2016-04-18,Monday,0.0,Unknown,33.77005,"[33.77005, -118.193739]",-118.193739,Unknown,Street/Highway,Unknown,California,Unknown
+219,20.0,1994-06-20,Monday,5.0,Male,47.618456,"[47.618456, -117.644099]",-117.644099,Yes,Military facility,White American or European American,Washington,Rifle
+220,18.0,2015-10-09,Friday,1.0,Male,35.1725658,"[35.1725658, -111.6585435]",-111.6585435,Unknown,College/University/Adult education,White American or European American,Arizona,Handgun
+221,20.0,1992-05-01,Friday,4.0,Male,39.08174985,"[39.08174985, -121.5549539]",-121.5549539,Yes,Secondary school,White American or European American,California,Multiple guns
+222,34.0,2011-07-07,Thursday,8.0,Male,42.96920434,"[42.96920434, -85.66008902]",-85.66008902,Yes,Residential home/Neighborhood,Black American or African American,Michigan,Handgun
+223,24.0,2007-12-09,Sunday,5.0,Male,39.81087474,"[39.81087474, -105.173715]",-105.173715,No,Place of worship,White American or European American,Colorado,Multiple guns
+224,49.0,2016-03-25,Friday,2.0,Male,34.759257,"[34.759257, -86.602493]",-86.602493,Yes,Residential home/Neighborhood,White American or European American,Alabama,Unknown
+225,41.0,2009-04-03,Friday,14.0,Male,42.10140103,"[42.10140103, -75.90922294]",-75.90922294,Yes,College/University/Adult education,Asian American,New York,Handgun
+226,43.0,2013-04-24,Wednesday,7.0,Male,39.54231335,"[39.54231335, -90.33029852]",-90.33029852,Unknown,Residential home/Neighborhood,White American or European American,Illinois,Multiple guns
+227,,2016-03-15,Tuesday,0.0,Unknown,33.748995,"[33.748995, -84.387982]",-84.387982,Unknown,Entertainment Venue,Unknown,Georgia,Multiple Guns
+228,40.0,1988-09-22,Thursday,5.0,Male,41.83928045,"[41.83928045, -87.68818145]",-87.68818145,No,"Retail/ Wholesale/Services facility
+and Primary school",Black American or African American,Illinois,Handgun
+229,,2015-02-09,Monday,3.0,Male/Female,28.24653304,"[28.24653304, -82.71690259]",-82.71690259,No,Residential home/Neighborhood,White American or European American/Some other Race,Florida,Unknown
+230,16.0,2016-03-06,Sunday,1.0,Male,42.391764,"[42.391764, -71.032828]",-71.032828,Unknown,Residential home/Neighborhood,Unknown,Massachusetts,Unknown
+231,24.0,2015-07-16,Thursday,5.0,Male,35.09318123,"[35.09318123, -85.23676751]",-85.23676751,Yes,Military facility,White American or European American,Tennessee,Multiple guns
+232,40.0,2012-05-30,Wednesday,6.0,Male,47.621995749999996,"[47.621995749999996, -122.323646]",-122.323646,Yes,Retail/Wholesale/Services facility,White American or European American,Washington,Handgun
+233,17.0,1995-11-15,Wednesday,2.0,Male,35.37810374,"[35.37810374, -87.00610559]",-87.00610559,Yes,Secondary school,White American or European American,Tennessee,Rifle
+234,28.0,1984-02-24,Friday,3.0,Male,34.17622092,"[34.17622092, -118.5399542]",-118.5399542,Yes,Primary school,Black American or African American,California,Multiple guns
+235,,2015-09-27,Sunday,0.0,Male,33.02912644,"[33.02912644, -84.7143335]",-84.7143335,Unknown,Entertainment venue,Black American or African American,Georgia,Multiple guns
+236,23.0,2015-04-03,Friday,0.0,Male,29.19313443,"[29.19313443, -81.10173014]",-81.10173014,No,Residential home/Neighborhood,Black American or African American,Florida,Handgun
+237,26.0,2015-10-01,Thursday,10.0,Male,43.22205555,"[43.22205555, -123.3522367]",-123.3522367,Unknown,College/University/Adult education,Two or more races,Oregon,Multiple guns
+238,24.0,2015-03-19,Thursday,2.0,Male,36.44329,"[36.44329, -108.723281]",-108.723281,Unknown,Street/Highway,Unknown,New Mexico,Rifle
+239,32.0,2006-10-02,Monday,6.0,Male,40.04214385,"[40.04214385, -76.30100872]",-76.30100872,Unknown,Primary school,White American or European American,Pennsylvania,Multiple guns
+240,19.0,2016-02-06,Saturday,4.0,Male,29.209684,"[29.209684, -99.786168]",-99.786168,Unknown,Residential home/Neighborhood,White American or European American,Texas,Unknown
+241,28.0,1991-11-01,Friday,6.0,Male,41.65589405,"[41.65589405, -91.53117986]",-91.53117986,No,College/University/Adult education,Asian American,Iowa,Handgun
+242,30.0,1985-03-06,Wednesday,2.0,Male,33.7629969,"[33.7629969, -84.4231328]",-84.4231328,Yes,Government facility,Black American or African American,Georgia,Handgun
+243,14.0,2007-10-11,Thursday,1.0,Male,41.47657557,"[41.47657557, -81.68051502]",-81.68051502,Yes,Secondary school,White American or European American,Ohio,Handgun
+244,24.0,1989-01-17,Tuesday,6.0,Male,37.96631812,"[37.96631812, -121.3018775]",-121.3018775,Yes,Primary school,White American or European American,California,Multiple guns
+245,22.0,2015-02-01,Sunday,0.0,Male,43.04093416,"[43.04093416, -76.14376763]",-76.14376763,No,Entertainment venue,Black American or African American,New York,Handgun
+246,35.0,1991-10-10,Thursday,3.0,Male,40.98213277,"[40.98213277, -74.11264731]",-74.11264731,Yes,Government facility,Black American or African American,New Jersey,Multiple guns
+247,28.0,2015-11-13,Friday,4.0,Male,30.33216122,"[30.33216122, -81.67576993]",-81.67576993,Unknown,Residential home/Neighborhood,Black American or African American,Florida,Unknown
+248,,2016-03-11,Friday,0.0,Unknown,40.217053,"[40.217053, -74.742938]",-74.742938,Unknown,Street/Highway,Unknown,New Jersey,Handgun
+249,30.0,2015-11-07,Saturday,1.0,Male,31.21094544,"[31.21094544, -82.35793452]",-82.35793452,Yes,Residential home/Neighborhood,Black American or African American,Georgia,Unknown
+250,,2015-04-07,Tuesday,1.0,Male,34.26779152,"[34.26779152, -85.18822422]",-85.18822422,No,Residential home/Neighborhood,Black American or African American,Georgia,Handgun
+251,47.0,1999-09-15,Wednesday,8.0,Male,32.74802142,"[32.74802142, -97.31305148]",-97.31305148,Yes,Place of worship,White American or European American,Texas,Handgun
+252,,2016-04-26,Tuesday,1.0,Unknown,38.845113,"[38.845113, -76.874972]",-76.874972,Unknown,Street/Highway,Unknown,Maryland,Unknown
+253,26.0,1995-01-26,Thursday,2.0,Male,35.92681467,"[35.92681467, -79.03850407]",-79.03850407,Yes,Street/Highway,White American or European American,North Carolina,Rifle
+254,21.0,1971-11-11,Thursday,2.0,Male,47.67367375,"[47.67367375, -117.4159843]",-117.4159843,Yes,Place of worship,White American or European American,Washington,Rifle
+255,33.0,2015-10-31,Saturday,4.0,Male,38.86730659,"[38.86730659, -104.7572279]",-104.7572279,Unknown,Street/Highway,White American or European American,Colorado,Multiple guns
+256,33.0,2015-02-07,Saturday,5.0,Male,33.71059292,"[33.71059292, -84.71564276]",-84.71564276,No,Residential home/Neighborhood,Black American or African American,Georgia,Handgun
+257,15.0,2007-04-10,Tuesday,0.0,Male,45.50216511,"[45.50216511, -122.4412759]",-122.4412759,No,Secondary school,Some other race,Oregon,Rifle
+258,48.0,2003-07-08,Tuesday,7.0,Male,32.38455246,"[32.38455246, -88.68967949]",-88.68967949,No,Company/Factory/Office,White American or European American,Mississippi,Multiple guns
+259,18.0,2006-08-30,Wednesday,1.0,Male,36.04099857,"[36.04099857, -79.09701201]",-79.09701201,Yes,Secondary school,Some other race,North Carolina,Multiple guns
+260,36.0,2003-08-27,Wednesday,7.0,Male,41.83928045,"[41.83928045, -87.68818145]",-87.68818145,No,Company/Factory/Office,Some other race,Illinois,Handgun
+261,43.0,2002-01-16,Wednesday,3.0,Male,37.27537712,"[37.27537712, -82.09877234]",-82.09877234,No,College/University/Adult education,Black American or African American,Virginia,Handgun
+262,29.0,2015-01-10,Friday,3.0,Male,46.73059479,"[46.73059479, -116.9990042]",-116.9990042,No,Residential home/Neighborhood,Asian American,Idaho,Handgun
+263,44.0,2005-03-12,Saturday,8.0,Male,43.06396691,"[43.06396691, -88.12299758]",-88.12299758,No,Place of worship,White American or European American,Wisconsin,Handgun
+264,,2015-04-05,Sunday,0.0,Male,39.77725479,"[39.77725479, -86.14635359]",-86.14635359,No,Residential home/Neighborhood,Unknown,Indiana,Unknown
+265,50.0,2015-04-16,Thursday,5.0,Male,33.57145875,"[33.57145875, -112.0904854]",-112.0904854,Unknown,Residential home/Neighborhood,Some other race,Arizona,Handgun
+266,43.0,2012-04-02,Monday,7.0,Male,37.79176806,"[37.79176806, -122.2153171]",-122.2153171,Yes,College/University/Adult education,Asian American,California,Handgun
+267,16.0,2016-03-06,Sunday,1.0,Male,42.391764,"[42.391764, -71.032828]",-71.032828,Unknown,Residential home/Neighborhood,Some other race,Massachusetts,Unknown
+268,26.0,2016-02-23,Tuesday,5.0,Male,33.448377,"[33.448377, -112.074037]",-112.074037,Unknown,Residential home/Neighborhood,White American or European American,Arizona,Unknown
+269,31.0,2014-11-19,Thursday,1.0,Male,30.4549394,"[30.4549394, -84.25264151]",-84.25264151,Yes,College/University/Adult education,Black American or African American,Florida,Handgun
+270,13.0,1999-12-06,Monday,0.0,Male,35.77669911,"[35.77669911, -95.25996596]",-95.25996596,No,Primary school,White American or European American,Oklahoma,Handgun
+271,59.0,1987-04-23,Thursday,6.0,Male,27.98388983,"[27.98388983, -80.66662713]",-80.66662713,Yes,Retail/Wholesale/Services facility,White American or European American,Florida,Multiple guns
+272,32.0,2016-02-27,Saturday,2.0,Male,38.6697,"[38.6697, -77.3524]",-77.3524,Unknown,Residential home/Neighborhood,Black American or African American,Virginia,Rifle
+273,,2016-02-21,Sunday,0.0,Unknown,29.760427,"[29.760427, -95.369803]",-95.369803,Unknown,Street/Highway,Unknown,Texas,Unknown
+274,22.0,2014-05-23,Friday,7.0,Male,34.4145857,"[34.4145857, -119.8581209]",-119.8581209,Yes,Residential home/Neighborhood,White American or European American,California,Handgun
+275,25.0,2008-06-25,Wednesday,7.0,Male,37.84040411,"[37.84040411, -87.57853755]",-87.57853755,No,Company/Factory/Office,White American or European American,Kentucky,Handgun
+276,26.0,2006-08-24,Thursday,2.0,Male,44.49022039,"[44.49022039, -73.11400628]",-73.11400628,Yes,Residential home/Neighborhood,Black American or African American,Vermont,Handgun
+277,28.0,1995-04-03,Monday,6.0,Male,27.73907518,"[27.73907518, -97.43073352]",-97.43073352,No,Company/Factory/Office,Unknown,Texas,Handgun
+278,34.0,1993-12-07,Tuesday,6.0,Male,40.72662266,"[40.72662266, -73.644712]",-73.644712,No,Public transportation,Black American or African American,New York,Handgun
+279,23.0,2016-02-07,Sunday,2.0,Male,28.4541,"[28.4541, -81.4646]",-81.4646,Unknown,Entertainment venue,Some other race,Florida,Handgun
+280,55.0,1993-07-01,Thursday,9.0,Male,37.75457839,"[37.75457839, -122.4424343]",-122.4424343,No,Company/Factory/Office,White American or European American,California,Handgun
+281,50.0,2016-04-24,Sunday,0.0,Male,36.765971,"[36.765971, -78.928344]",-78.928344,Unknown,Residential home/Neighborhood,Black American or African American,Virginia,Unknown
+282,41.0,1984-07-18,Wednesday,22.0,Male,32.555556,"[32.555556, -117.047656]",-117.047656,Yes,Restaurant/Cafe?,White American or European American,California,Multiple guns
+283,39.0,2009-11-05,Thursday,13.0,Male,31.13814354,"[31.13814354, -97.77797804]",-97.77797804,Yes,Military facility,White American or European American,Texas,Handgun
+284,41.0,1996-02-09,Friday,7.0,Male,26.11737018,"[26.11737018, -80.14865708]",-80.14865708,No,Government facility,Black American or African American,Florida,Handgun
+285,49.0,2016-03-12,Saturday,2.0,Male,34.111223,"[34.111223, -82.867084]",-82.867084,Unknown,Residential home/Neighborhood,Unknown,Georgia,Unknown
+286,,2016-01-06,Wednesday,3.0,Male,28.039465,"[28.039465, -81.949804]",-81.949804,Unknown,Residential home/Neighborhood,Black American or African American,Florida,Unknown
+287,,2016-01-07,Thursday,1.0,Unknown,35.149534,"[35.149534, -90.04898]",-90.04898,Unknown,Street/Highway,Unknown,Tennessee,Unknown
+288,39.0,1993-12-16,Thursday,1.0,Male,42.31319376,"[42.31319376, -84.01868108]",-84.01868108,Yes,Secondary school,White American or European American,Michigan,Handgun
+289,30.0,2015-02-22,Sunday,4.0,Male,31.07925506,"[31.07925506, -97.73392317]",-97.73392317,No,Residential home/Neighborhood,Black American or African American,Texas,Unknown
+290,,2016-03-11,Friday,2.0,Unknown,42.331427,"[42.331427, -83.045754]",-83.045754,Unknown,Residential home/Neighborhood,Unknown,Michigan,Multiple Guns
+291,21.0,2015-06-17,Wednesday,9.0,Male,32.8129729,"[32.8129729, -79.96693995]",-79.96693995,Unknown,Place of worship,White American or European American,South Carolina,Handgun
+292,41.0,2015-09-17,Thursday,6.0,Male,43.38682722,"[43.38682722, -98.84357239]",-98.84357239,Unknown,Residential home/Neighborhood,White American or European American,South Dakota,Shotgun
+293,44.0,1999-07-29,Thursday,10.0,Male,33.7629969,"[33.7629969, -84.4231328]",-84.4231328,Yes,Company/Factory/Office,White American or European American,Georgia,Handgun
+294,41.0,2011-10-12,Friday,8.0,Male,33.75432632,"[33.75432632, -118.0715378]",-118.0715378,Yes,Retail/Wholesale/Services facility,White American or European American,California,Handgun
+295,,2016-03-07,Monday,0.0,Unknown,30.22409,"[30.22409, -92.019843]",-92.019843,Unknown,Street/Highway,Unknown,Louisiana,Unknown
+296,29.0,1986-08-12,Tuesday,1.0,Male,40.679276,"[40.679276, -73.939513]",-73.939513,Yes,College/University/Adult education,Black American or African American,New York,Handgun
+297,26.0,2015-01-28,Wednesday,5.0,Male,33.03607062,"[33.03607062, -85.0287065]",-85.0287065,No,Residential home/Neighborhood,White American or European American,Georgia,Handgun
+298,,1998-03-24,Tuesday,5.0,Male,35.82083155,"[35.82083155, -90.67950058]",-90.67950058,No,Primary school,White American or European American,Arkansas,Multiple guns
+299,24.0,2012-07-20,Friday,12.0,Male,39.72941874,"[39.72941874, -104.9825207]",-104.9825207,Yes,Entertainment venue,White American or European American,Colorado,Multiple guns
+300,22.0,1993-08-06,Friday,4.0,Male,35.07997086,"[35.07997086, -79.03796125]",-79.03796125,No,Restaurant/Cafe?,White American or European American,North Carolina,Multiple guns
+301,,2016-01-30,Saturday,3.0,Male,33.538652,"[33.538652, -112.185987]",-112.185987,Unknown,Residential home/Neighborhood,Unknown,Arizona,Unknown
+302,45.0,2012-10-21,Sunday,4.0,Male,43.06396691,"[43.06396691, -88.12299758]",-88.12299758,No,Retail/Wholesale/Services facility,Black American or African American,Wisconsin,Handgun
+303,18.0,1992-12-14,Monday,2.0,Male,42.19358268,"[42.19358268, -73.36216339]",-73.36216339,No,College/University/Adult education,Asian American,Massachusetts,Rifle
+304,16.0,1997-10-01,Wednesday,2.0,Male,32.27492783,"[32.27492783, -90.09470655]",-90.09470655,Yes,Secondary school,White American or European American,Mississippi,Rifle
+305,26.0,2016-02-23,Tuesday,5.0,Male,33.5927,"[33.5927, -112.163]",-112.163,Yes,Residential home/Neighborhood,Two or more races,Arizona,Unknown
+306,,2016-03-09,Wednesday,6.0,Male,40.440625,"[40.440625, -79.995886]",-79.995886,Unknown,Residential home/Neighborhood,Unknown,Pennsylvania,Multiple guns
