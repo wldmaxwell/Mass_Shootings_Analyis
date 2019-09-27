@@ -3,52 +3,13 @@
 
 Need config.js file with Map Box API_KEY
 
-
-**Mass Shootings in the U.S. Project Proposal**
-
-** **
-
-**1.** 	**Project Title:**
-
-**a.** 	Mass Shootings in the US.
+**Mass Shootings in the U.S.**
 
 ** **
 
-**2.** 	**Team Members:**
-
-**a.** 	Edward Gates Jr.
-
-**b.**  	Nikita Jones
-
-**c.** 	Mason Waters
-
 ** **
 
-**3.** 	**Project Description Outline:**
-
-1. Must Include:
-
-    1. Python Flask-powered Restful API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.).
-
-    2. Should fall into one of the below four tracks:
-
-        1. A custom "Creative" D3.js project (i.e., a nonstandard graph or chart)
-
-        2. A combination of web scraping and Leaflet or Plotly
-
-        3. **A dashboard page with multiple charts that update from the same data**
-
-        4. A "thick" server that performs multiple manipulations or data in a database prior to visualizations (must be approved)
-
-    3. Your project should include at least one JS Library that we did not cover.
-
-    4. Your project must be powered by at least a data set with at least 100 Records.
-
-    5. You project must include some level of user-driven interactions(e.g. menus, dropdowns, textboxes).
-
-    6. Your final visualization should ideally include at least three views.
-
-	
+**Project Decision Outline**
 
 <table>
   <tr>
@@ -72,7 +33,7 @@ The staggering number of over 300 mass shootings that have occurred within the l
 
  		 
 
-**4.** 	**Data Sets to be Used:**
+**Data Sets to be Used:**
 
 ** **
 
@@ -87,40 +48,31 @@ https://public.opendatasoft.com/api/records/1.0/search/?dataset=mass-shootings-i
 
  
 
-**5.** 	**Rough Breakdown of Tasks:**
+**Rough Breakdown of Tasks:**
 
-a.     Mason Waters
+* Project Manager
 
-1. Project Manager
+* Extracted API mass shooting data and load data in MongoDB database
 
-2. Extracted API mass shooting data and load data in MongoDB database
+* Pull data from MongoDB to create mapping of locations for additional analysis
 
-3. Pull data from MongoDB to create mapping of locations for additional analysis
+* Developed dashboard for presentation visualization
 
-4. Developed dashboard for presentation visualization
+* Researching new JS library not previously learned in class (Chartist)
 
-    
+* Created Powerpoint for group presentation
 
-  
-
-b.     Edward Gates Jr.
-
-1. Researching new JS library not previously learned in class (Chartist)
-
-2. Created Powerpoint for group presentation
-
-3. Development of Visualizations 
+* Development of Visualizations 
 
                      		
 
-c.      Nikita Jones
+* Researching state policy data for additional analysis
 
-1. Researching state policy data for additional analysis
+* Import, clean, analyzed statistical data from API
 
-2. Import, clean, analyzed statistical data from API
-
-3. Development of Visualizations 
+* Development of Visualizations 
 
 		
 
+![image alt text](image_0.png)
 
